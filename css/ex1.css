@@ -1,0 +1,22 @@
+h1{
+    color: crimson;
+    text-align: center;
+    background-color:black;
+}
+body{
+    background-image: url("../images/leather_00002.jpg");
+}
+h2{
+    color: dodgerblue;
+    text-align: center;
+    background-color: darkblue;
+}
+table{
+    background-color: cyan;
+}
+ol{
+    background-image:  url("../images/paper_00061.jpg");
+}
+address{
+    color: azure;
+}
