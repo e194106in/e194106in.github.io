@@ -1,0 +1,27 @@
+h1.white{
+    color: white;
+    background-color: black;
+}
+
+body{
+    background-image: url(../images/leather_00002.jpg)
+}
+
+h2.hobby1{
+    color: yellow;
+    background-color: darkseagreen;
+}
+
+h2.hobby2{
+    color: crimson;
+    background-color: black;
+}
+
+p{
+    color: aqua;
+}
+
+h1.black{
+    color: black;
+    background-color: cornflowerblue;
+}
