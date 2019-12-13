@@ -1,0 +1,66 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: gray;
+}
+
+div.menuimage{
+    width: 1000px;
+    height: 320px;
+    margin: 20px 0px;
+    background-color: azure;
+    font-size: 0;
+}
+
+div.menu{
+    width: 250px;
+    height: 320px;
+    background-color: gray;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 0px;
+}
+
+div.menuitem{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+div.images{
+    width: 700px;
+    height: 320px;
+    background-color: gray;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+}
+
+div.image{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+    margin-bottom: 0px;
+}
+
+div.sentence{
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+    margin-top: 0px;
+    font-size: 15px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: darkorange;
+    text-align: right;
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
